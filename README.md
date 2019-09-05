@@ -7,6 +7,6 @@ Emily Schwarz;
 
 Ramzy El Taher;
 
-Zach Maroney;
+Zachary Maroney;
 
 Luis Hernandez
