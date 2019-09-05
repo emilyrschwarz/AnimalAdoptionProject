@@ -1,6 +1,3 @@
-
-Soft. Eng. Fundamentals project
-
 # Animal Adoption Project
 
 
