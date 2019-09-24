@@ -1,7 +1,5 @@
 package main;
 
-import static javafx.application.Application.launch;
-
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
@@ -19,18 +17,15 @@ public class Main extends Application {
     primaryStage.setTitle("Adoption Apps");
     primaryStage.setScene(new Scene(root, 400, 222));
     primaryStage.show();
-  }
-
-  public static void main(String[] args) {
-
-    System.out.println("yuh");
 
     try {
       Connection conn = DriverManager.getConnection("jdbc:sqlite:./res/shelter.db");
     } catch (SQLException e) {
       e.printStackTrace();
     }
+  }
 
+  public static void main(String[] args) {
     launch(args);
   }
 
