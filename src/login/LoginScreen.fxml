@@ -8,7 +8,7 @@
 
 <AnchorPane fx:id="errorLabel" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity"
   minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1"
-  xmlns:fx="http://javafx.com/fxml/1" fx:controller="main.LoginScreenController">
+  xmlns:fx="http://javafx.com/fxml/1" fx:controller="login.LoginScreenController">
   <children>
     <TextField fx:id="usernameText" layoutX="69.0" layoutY="86.0" prefHeight="35.0"
       prefWidth="212.0" promptText="Username"/>
