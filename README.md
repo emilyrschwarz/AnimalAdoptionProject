@@ -15,22 +15,23 @@
 
 ## Built With
 
+IntelliJ IDEA, Scenebuilder, and SQLite
+
 
 ## Contributing
 
 
 ## Author
 
-Travis Gayle;
+Travis Gayle; Back-end Developer
 
-Emily Schwarz;
+Luis Hernandez; Back-end Developer
 
-Ramzy El Taher;
+Ramzy El Taher; Back-end Developer and Documentation
 
-Zachary Maroney;
+Emily Schwarz; Front-end Developer
 
-Luis Hernandez
-
+Zachary Maroney; Front-end Developer
 
 ## License
 
